@@ -1,0 +1,15 @@
+18bb3fe (HEAD -> main, origin/main, origin/HEAD, develop) HEAD@{0}: merge develop: Fast-forward
+8ba8b6b HEAD@{1}: checkout: moving from develop to main
+18bb3fe (HEAD -> main, origin/main, origin/HEAD, develop) HEAD@{2}: commit (merge): commit to develop
+eec9bf9 (images) HEAD@{3}: merge images: Fast-forward
+8d490e4 HEAD@{4}: checkout: moving from styles to develop
+d6d6e8e (styles) HEAD@{5}: commit: changed index.html
+7481b88 HEAD@{6}: commit: create styles
+8d490e4 HEAD@{7}: checkout: moving from develop to styles
+8d490e4 HEAD@{8}: checkout: moving from styles to develop
+eec9bf9 (images) HEAD@{9}: checkout: moving from images to styles
+eec9bf9 (images) HEAD@{10}: commit: create images
+8d490e4 HEAD@{11}: checkout: moving from develop to images
+8d490e4 HEAD@{12}: commit: create index.html
+8ba8b6b HEAD@{13}: checkout: moving from main to develop
+8ba8b6b HEAD@{14}: clone: from git@github.com:ilia88ilia/DevOps_online_Kharkiv_2021Q4.git
