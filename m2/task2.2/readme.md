@@ -7,7 +7,7 @@
 7. Saved some file yo volume: ![AWS](Images/7.png "Saving_Volume_Information")
 8. Lounched instance from backup: ![AWS](Images/8.png "Instance_From_Backup")
 9. Detached volume from Linux VM: ![AWS](Images/9.png "Detach_Volume")
-10. Attached volume to CentOS VM: ![AWS]Iimages/10.png "Attach_Volume")![AWS](Images/11.png "Attach_Volume")
+10. Attached volume to CentOS VM: ![AWS](Iimages/10.png "Attach_Volume")![AWS](Images/11.png "Attach_Volume")
 11. Lounched WordPress with Amazon Lightsail: ![AWS](Images/12.png "WordPress_Amazon_Lightsail")
 12. Created Amazon S3 Bucket: ![AWS](Images/13.png "S3_Bucket")
 13. Uploaded files to S3: ![AWS](Images/14.png "Files_to_S3")
