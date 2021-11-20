@@ -21,14 +21,14 @@ servers, and switches in each of the networks:                ![Network](Images/
 4. VLANs have been configured in the Data Center. As a result, the computers in the data center stopped pinging 
 because they belonged to different subnets :                  ![Network](Images/19.png "VLAN")
                                                               ![Network](Images/20.png "VLAN")                                                                                          
-5. The Routing between VLANs has been configured:             ![Network](Images/34 3_2.1dop.png "VLAN")
-                                                              ![Network](Images/34 3_2.2dop.png "VLAN")  
+5. The Routing between VLANs has been configured:             ![Network](Images/321.png "VLAN")
+                                                              ![Network](Images/322.png "VLAN")  
 6. Routing tables were configured on all routers:             ![Network](Images/21.png "routing")
                                                               ![Network](Images/22.png "routing")
 															  ![Network](Images/23.png "routing")  
-7. A RIP protocol was configured on routers ISP 1-3:          ![Network](Images/34 3_3.1dop.png "VLAN")
-                                                              ![Network](Images/34 3_3.2dop.png "VLAN")  
-															  ![Network](Images/34 3_3.3dop.png "VLAN")
+7. A RIP protocol was configured on routers ISP 1-3:          ![Network](Images/331.png "VLAN")
+                                                              ![Network](Images/332.png "VLAN")  
+															  ![Network](Images/333.png "VLAN")
 8. The DHСP was configured:                                   ![Network](Images/24.png "DHCP")
                                                               ![Network](Images/25.png "DHCP")
                                                               ![Network](Images/26.png "DHCP")
@@ -41,9 +41,9 @@ because they belonged to different subnets :                  ![Network](Images/
 															  ![Network](Images/32.png "DNS")
 															  ![Network](Images/33.png "DNS")
 10. The Port forwarding on the Home Office was created and the it's work was checked:
-                                                              ![Network](Images/34 3_4.1dop.png "Port forwarding")
-                                                              ![Network](Images/34 3_4.2dop.png "Port forwarding")  
-															  ![Network](Images/34 3_4.3dop.png "Port forwarding")
-															  ![Network](Images/34 3_4.4dop.png "Port forwarding")
+                                                              ![Network](Images/341.png "Port forwarding")
+                                                              ![Network](Images/342.png "Port forwarding")  
+															  ![Network](Images/343.png "Port forwarding")
+															  ![Network](Images/344.png "Port forwarding")
 
 
