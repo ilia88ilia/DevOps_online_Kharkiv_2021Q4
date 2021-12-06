@@ -13,13 +13,13 @@
 6. Changed password to user2 using "passwd --expire:    ![Linux](Images/10.png "passs_expire")  
                                                         ![Linux](Images/11.png "pass_change")
 7. 	For example drwxr-xr-x 27 ilia ilia  4096 Dec  1 18:04 .
-    d      -directory
-    rwx    -owners  (r-read, w-write, x-execute)
-    r-x    -group   (r-read, - no, x-execute) 
-    r-x    -others 	(r-read, - no, x-execute) 
-	27     -number of objects inside the directory
-	ilia   -owners
-	ilia   -group
+    - d      -directory
+    - rwx    -owners  (r-read, w-write, x-execute)
+    - r-x    -group   (r-read, - no, x-execute) 
+    - r-x    -others 	(r-read, - no, x-execute) 
+	- 27     -number of objects inside the directory
+	- ilia   -owners
+	- ilia   -group
 	                                                     ![Linux](Images/12.png "access_rights")														
 8. Change the owner, access rights for the owner, groups and others. 
    Assigning access rights when creating with "umask".
