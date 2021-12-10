@@ -17,14 +17,14 @@
    - < - with negative "nice" value. A negative value of "nice" increases the process priority;    
    - N - with positive nice value.  A positive "nice" value decreases the process priority.
    Outputs information about the processes with the "top" utillite:	
-                  	                                    ![Linux](Images/8.png "top")
+                  	                                ![Linux](Images/8.jpg "top")
                                                         ![Linux](Images/9.png "top-p")
                                                         ![Linux](Images/10.png "top-p")   																												
 6. Displayed the processes for a certain user:          ![Linux](Images/11.png "ps-fu")   
 														![Linux](Images/12.png "ps-fu") 														
 7. Displayed the processes for a certain user with "top" utillite:
                                                         ![Linux](Images/13.png "top-u")
-8. Interactive "htop", "atop", "top V n 15":			![Linux](Images/14.png "htop")
+8. Interactive "htop", "atop", "top V n 15":		![Linux](Images/14.png "htop")
                                                         ![Linux](Images/15.png "atop")
 														![Linux](Images/16.png "topVn")
 9. Sort "top" by time "Shift+T", by memory "Shift+M":   ![Linux](Images/17.png "time")
