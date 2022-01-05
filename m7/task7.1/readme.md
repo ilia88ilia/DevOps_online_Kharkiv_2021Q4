@@ -31,5 +31,5 @@
 												![Linux](Images/19.png "backup")	
 												![Linux](Images/20.png "scriptC.sh")	
 5. The command to run the script was added to crontab with a run frequency of one minute:                                      
-                                                ![Linux](Images/19.png "backup")	
-												![Linux](Images/20.png "scriptC.sh")
+                                                ![Linux](Images/21.png "backup")	
+												![Linux](Images/22.png "scriptC.sh")
