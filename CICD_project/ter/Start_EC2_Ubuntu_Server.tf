@@ -17,8 +17,8 @@ module "ec2_instance" {
   }
 }
 provider "aws" {
-    access_key = "AKIAYRZM7VDELFDMX2YV"
-    secret_key = "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"
+    access_key = "*********************"
+    secret_key = "**************************************"
     region     = "eu-central-1"
 }
 
